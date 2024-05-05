@@ -1,31 +1,13 @@
-# Welcome to My Portfolio
+# My Data Analytics Portfolio
 
 ---
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
-
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
----
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
-
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [LinkedIn Article](https://www.linkedin.com/pulse/decoding-delivery-data-driven-analysis-doordash-shmoile-afzal-satvc/?trackingId=PO47ZIFkRAqObQADLweHag%3D%3D)
+[<img src="https://media.licdn.com/dms/image/D5612AQEBUdscXHC46w/article-cover_image-shrink_720_1280/0/1708751036760?e=1720656000&v=beta&t=xFrbTGnCl15xkYyGdzSt8QkIWB5ZjPmr9f8acTkmoVk"/>](https://www.linkedin.com/pulse/decoding-delivery-data-driven-analysis-doordash-shmoile-afzal-satvc/?trackingId=PO47ZIFkRAqObQADLweHag%3D%3D)
+My final write up for the Brazilian DoorDash Equivalent Sales & Marketing Analysis: iFood
 
 ---
 
